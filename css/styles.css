@@ -8,7 +8,7 @@ body {
 font-family: var(--main-font), sans-serif;
 background-color: #fff;
 color: var(--primery-text-color);
-letter-spacing: -0.015em;
+letter-spacing: 0.02em;
 }
         
 ul {
@@ -22,7 +22,7 @@ text-decoration: none;
 text-transform: uppercase;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.14;
+line-height: 1.33;
 }
         
 .logo-second {
@@ -30,7 +30,7 @@ color: #2E2F42;
 font-family: "Raleway";
 font-weight: 800;
 font-size: 18px;
-line-height: 1.14;
+line-height: 1.33;
 }
      
  /* site-nav */
@@ -46,7 +46,7 @@ color: var(--primery-text-color);
 font-weight: 600;
 text-decoration: none;
 font-size: 16px;
-line-height: 1.28;
+line-height: 1.5;
 }
     
 .auth-nav .link {
@@ -73,7 +73,7 @@ font-family: inherit;
 color: var(--accent-color);
 font-weight: 600;
 font-size: 56px;
-line-height: 0.9;
+line-height: 1.11;
 text-align: center;
 }
         
@@ -83,9 +83,9 @@ background-color: #4D5AE5;
 font-family: inherit;
 font-weight: 600;
 font-size: 16px;
-line-height: 1.1;
+line-height: 1.19;
 letter-spacing: 0.04em;
-text-transform: uppercase;
+text-transform: capitalize;
 text-align: center;
 cursor: pointer; 
 border: none;
@@ -115,7 +115,7 @@ overflow: hidden;
         
 .box-title {
 color: var(--primery-text-color);
-font-weight: 600;
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 }
@@ -124,7 +124,7 @@ line-height: 1.2;
 color: var(--second-text-color);
 font-weight: 400;
 font-size: 16px;
-line-height: 1.2;
+line-height: 1.5;
 }
         
 /* Work-people */
@@ -136,21 +136,21 @@ background-color: #E5E5E5;
 .pictures {
 font-weight: 600;
 font-size: 36px;
-line-height: 0.9;
+line-height: 1.1;
 text-align: center;
 }
         
 .work-tetle {
-font-weight: 600;
+font-weight: 500;
 font-size: 20px;
-line-height: 0.9;
+line-height: 1.2;
 text-align: center;
 }
         
 .work-text {
 font-weight: 400;
 font-size: 16px;
-line-height: 0.9;
+line-height: 1.5;
 text-align: center;
 }
     
@@ -164,7 +164,7 @@ background-color: #2E2F42;
 color: var(--accent-color); 
 font-weight: 400;
 font-size: 16px;
-line-height: 1.28;
+line-height: 1.5;
 }
     
 /* Portfolio */
@@ -181,8 +181,8 @@ background-color: #F4F4FD;
 font-family: inherit;
 font-weight: 600;
 font-size: 16px;
-line-height: 1.1;
-letter-spacing: 0.3em;
+line-height: 1.5;
+letter-spacing: 0.04em;
 text-align: center;
 cursor: pointer;
 border: none;
@@ -195,29 +195,20 @@ color: #F4F4FD;
 }
         
 /* section pictures-fotos */
-        
-.presentation-blok {
-font-family: inherit;
-text-decoration: none;
-}
-        
+              
 .presentation-title {
 font-family: inherit;
 color: var(--primery-text-color);
-font-weight: 600;
+font-weight: 500;
 font-size: 16px;
-line-height: 1;
+line-height: 1.2;
 }
-        
+
 .presentation-text {
 font-family: inherit;
 font-weight: 400;
-font-style: normal;
+font-size: 16px;
+line-height: 1.5;
 }
         
-.presentation-subject {
-color: #F4F4FD;
-font-weight: 400;
-font-size: 16px;
-line-height: 1;
-}
+/*  */
